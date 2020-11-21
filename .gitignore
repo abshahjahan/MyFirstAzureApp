@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AzureSecondMvcApp/.vs/AzureSecondMvcApp
+/AzureSecondMvcApp/AzureSecondMvcApp/bin
+/AzureSecondMvcApp/AzureSecondMvcApp/obj/Debug
+/AzureSecondMvcApp/packages
